@@ -10,7 +10,7 @@ Zadání URL: Zadejte URL stránky, ze které chcete získat data.
 Generování CSV: Skript stáhne data a uloží je do CSV souboru.
 Ověření platnosti: Skript zkontroluje, že URL je správná a že byly zadány všechny argumenty.
 Instalace
-Pro nainstalování potřebných knihoven použijte tento příkaz: pip install requests beautifulsoup4
+Nainstalujte potřebné knihovny z readme.txt
 Použití
 python project3.py https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ&xkraj=0&xobec=1001&xstrana=0&xv=0  vysledky.csv
 Poznámky
